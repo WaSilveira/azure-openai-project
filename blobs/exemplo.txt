@@ -1,0 +1,10 @@
+Este é um arquivo de exemplo para o projeto Azure OpenAI.
+
+Itens disponíveis:
+- Notebook: R$4500.00 (10 unidades)
+- Mouse: R$150.50 (50 unidades)
+- Teclado: R$200.75 (30 unidades)
+- Monitor: R$1200.00 (15 unidades)
+- Impressora: R$900.00 (5 unidades)
+
+Observação: Estoque atualizado em 15/03/2025.
